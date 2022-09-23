@@ -3,6 +3,7 @@
 A few facts about me:
 -  👨🏻‍💻 I am Softwar Engineering student at Beykent University 2nd year.
 -  🥰 For 1 years ı have been creating cross-platform apps using by Flutter.
+-  📝 I am currently learning Swift & SwiftUI
 -  🇹🇷 I live in Turkey.
 -  🙎🏻‍♂️ I speak basic English, fluent Turkish.
 
