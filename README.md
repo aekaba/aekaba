@@ -8,9 +8,7 @@ A few facts about me:
 
 
 
-[![Ata Emir's github stats](https://github-readme-stats.vercel.app/api?username=aekaba&theme=tokyonight)](https://github.com/aekaba/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aekaba&theme=tokyonight)](https://github.com/aekaba/github-readme-stats)
+[![Ata Emir's github stats](https://github-readme-stats.vercel.app/api?username=aekaba&theme=tokyonight&show_icons=true)](https://github.com/aekaba/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aekaba&theme=tokyonight&layout=compact)](https://github.com/aekaba/github-readme-stats)
 
 ### Contact me   ☎️
 
