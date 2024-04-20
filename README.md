@@ -1,7 +1,7 @@
 ### Hi 👋🏻 I'm Ata Emir 👨🏻‍💻💙📱🇹🇷
 
 A few facts about me:
--  👨🏻‍💻 I am Software Engineering student at Beykent University 2nd granede.
+-  👨🏻‍💻 I am Software Engineering student at Beykent University 3nd granede.
 -  🥰 i have been created cross-platform apps by using by flutter for a year.
 -  📝 I am currently learning Swift & SwiftUI
 -  🇹🇷 I live in Turkey.
